@@ -42,8 +42,4 @@ public class Strings {
         }
         return (reversedText.equals(text));
     }
-
-    public void test() {
-
-    }
 }
